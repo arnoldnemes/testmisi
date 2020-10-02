@@ -12,5 +12,7 @@ public class Asd {
         System.out.println(asd);
 
         System.out.println("first commit");
+
+        System.out.println("second commit");
     }
 }
