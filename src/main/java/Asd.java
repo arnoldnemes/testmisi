@@ -4,7 +4,11 @@ public class Asd {
         System.out.println("asdasd");
         System.out.println("this is a new commit");
 
-
         System.out.println("git add");
+
+        String asd;
+
+        asd = "new branch";
+        System.out.println(asd);
     }
 }
