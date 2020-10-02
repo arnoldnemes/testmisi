@@ -10,5 +10,7 @@ public class Asd {
 
         asd = "new branch";
         System.out.println(asd);
+
+        System.out.println("first commit");
     }
 }
